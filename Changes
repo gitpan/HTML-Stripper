@@ -1,6 +1,17 @@
 Revision history for Perl extension HTML::Stripper.
 
-0.01  Sun Jun 13 21:36:59 2004
-	- original version; created by h2xs 1.23 with options
-		-AX -n HTML::Stripper
+2004-06-13    Nathan Bessette <coruscate@cpan.org>
 
+    Release 0.02
+
+    - Fixed Makefile.PL (0.01 was requiring perl version 5.8.3)
+    - Added HTML::Parser prerequisite entry in Makefile.PL
+    - Fixed 'tests' parameter to Test::More in t/HTML-Stripper.t
+    - Changed format of Changes file.
+
+
+2004-06-13    Nathan Bessette <coruscate@cpan.org>
+
+    Release 0.01
+
+	- Original version
