@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/HTML-Stripper.t
+lib/HTML/Stripper.pm

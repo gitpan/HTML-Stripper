@@ -1,0 +1,6 @@
+Revision history for Perl extension HTML::Stripper.
+
+0.01  Sun Jun 13 21:36:59 2004
+	- original version; created by h2xs 1.23 with options
+		-AX -n HTML::Stripper
+
